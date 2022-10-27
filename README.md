@@ -17,6 +17,7 @@ Si el jugador desbloquea todas las cartas, se mostrará un mensaje (MessageDialo
 
 <img align="center" alt="Coding" width="400" src="https://github.com/alvarato/Tarea20/blob/main/img/img9.png">
 
+[Link a las actividades anteriores](https://github.com/alvarato/Tarea20)
 ## Alumnos participantes 💻
 
 - [@DaniMartos23](https://github.com/DaniMartos23)
